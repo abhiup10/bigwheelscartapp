@@ -1,0 +1,13 @@
+h1{
+    font-size: xx-large;
+}
+
+body{
+    background-color: #7fb5ff;
+    background-image: linear-gradient(50deg, black , white);
+}
+
+.cr{
+    text-transform: lowercase;
+    margin-left: 5px;
+}
